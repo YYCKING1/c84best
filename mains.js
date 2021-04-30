@@ -9,14 +9,14 @@ rover_height = 90;
 
 var Random_image= 
 [
-  "the2.jpg","th.png"]
+  "the2.jpg","th (1).png"]
   
 
 var Random_number = Math.floor(Math.random()*4);
 
 background_image = Random_image[Random_number]; 
 
-rover_image = "rover.png"; 
+rover_image = "th.png"; 
 
 rover_x = 10; 
 
